@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ntwalibisimwa.github.io/virtual-pet",
+  "homepage": "https://ntwalibisimwa.github.io/virtual-pet-hosted",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
